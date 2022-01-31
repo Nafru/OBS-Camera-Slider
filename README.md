@@ -1,6 +1,6 @@
 # OBS-Camera-Slider
 
-Camera slider controllable via OBS (Open Broadcaster Software).
+Camera slider controllable via OBS (Open Broadcaster Software) and local webhost via Flask.
 
 ## Getting Started
 
@@ -11,3 +11,4 @@ You'll need the following hardware (see also the 'hardware' folder):
 
 You'll need the following software:
 1. [OBS Studio ](https://obsproject.com/)
+2. [Flask](https://flask.palletsprojects.com/)
