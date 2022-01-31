@@ -1,6 +1,6 @@
 # OBS-Camera-Slider
 
-Camera slider controllable via OBS (Open Broadcaster Software) and local webhost via Flask.
+Multiple axis Camera slider controllable via OBS (Open Broadcaster Software) and local webhost via Flask with multiple presets.
 
 ## Getting Started
 
