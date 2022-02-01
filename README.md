@@ -10,6 +10,7 @@ You'll need the following hardware (see also the 'hardware' folder):
 3. Stepper motor
 4. Stepper controller that accepts g-code, for example an [Arduino Uno](https://docs.arduino.cc/hardware/uno-rev3) running GRBL with a [gShield](https://github.com/synthetos/grblShield)
 5. A camera compatible with [OBS Studio ](https://obsproject.com/)
+6. ESP8266 - 01 (adapter and programming board) optional for WIFI connectivity
 
 You'll need the following software:
 1. [Arduino IDE](https://www.arduino.cc/en/software)
@@ -23,3 +24,8 @@ Python Libraries you will require:
 
 Arduino Sketch you will need:
 1. [GRBLUpload](https://github.com/grbl/grbl)
+
+ESP8266 Libraries and SKetch
+1. [WifiManager](https://github.com/tzapu/WiFiManager#install-through-library-manager)
+
+
