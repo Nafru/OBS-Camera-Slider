@@ -17,6 +17,7 @@ You'll need the following software:
 2. [OBS Studio ](https://obsproject.com/)
 3. [Flask](https://flask.palletsprojects.com/)
 4. Python compatible text editor
+5. [Tibbo Device Server Toolkit (TDST)](https://tibbo.com/soi/software.html)  Virtual Port to send Com to TCP_IP
 
 Python Libraries you will require:
 1. [pySerial](https://pyserial.readthedocs.io/en/latest/)
