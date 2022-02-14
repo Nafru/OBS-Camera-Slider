@@ -11,15 +11,15 @@ The top level assembly is comprised of off-the-shelf parts, as well as sub-assem
 |Neema 32 Stepper Motor|Neema 32 Stepper Motor|OpenBuilds|NA|1|EA|Makerparts.ca|
 |Xtension Limit Switch Kit|Xtension Limit Switch Kit|OpenBuilds|NA|2|EA|Makerparts.ca|
 |Drag/Cable Chain|Drag/Cable Chain|OpenBuilds|NA|1|EA|Makerparts.ca|
-|Xtension 4 Wire Without Connectors|Stepper motor controller wire|OpenBuilds|1|EA|Makerparts.ca|
-|Xtension 3 Wire Without Connectors|Limit switch wire|OpenBuilds|1|EA|Makerparts.ca|
-|Xtension Connectors|3 pin Limit switch connector|OpenBuilds|1|EAMakerparts.ca|
-|Xtension Connectors|4 pin Stepper motor connector|OpenBuilds|1|EA|makerparts.ca|
-|Aluminum Spacers 13.2mm|10 Pack support for drag chain|OpenBuilds|1|10 pack|Makerparts.ca|
-|20mm Low Profile Screws M5|10 Pack Support for drag chain|OpenBuilds|1|10 Pack|Makerparts.ca|
-|Drop In Tee Nuts|10 Pack support for rag chain|OpenBuilds|1|10 pack| Markerparts.ca|
-|5 volt dc Power|5 Volt power for Arduino||1|EA||
-|12 volt dc power|12 volt power for stepper motor||1|EA||  
+|Xtension 4 Wire Without Connectors|Stepper motor controller wire|OpenBuilds|NA|1|EA|Makerparts.ca|
+|Xtension 3 Wire Without Connectors|Limit switch wire|OpenBuilds|NA|1|EA|Makerparts.ca|
+|Xtension Connectors|3 pin Limit switch connector|OpenBuilds|NA|1|EAMakerparts.ca|
+|Xtension Connectors|4 pin Stepper motor connector|OpenBuilds|NA|1|EA|makerparts.ca|
+|Aluminum Spacers 13.2mm|10 Pack support for drag chain|OpenBuilds|NA|1|10 pack|Makerparts.ca|
+|20mm Low Profile Screws M5|10 Pack Support for drag chain|OpenBuilds|NA|1|10 Pack|Makerparts.ca|
+|Drop In Tee Nuts|10 Pack support for rag chain|OpenBuilds|NA|1|10 pack| Markerparts.ca|
+|5 volt dc Power|5 Volt power for Arduino|NA||1|EA||
+|12 volt dc power|12 volt power for stepper motor|NA||1|EA||  
 |CAMERA|OBS-Compatible camera|Logitech|C920|1|EA|Best Buy|
 |STEPPERCONTROLLER|Stepper controller that accepts G-code|N/A|N/A|1|EA|Sub-Assembly, see below|
 |SCMOUNT1|3D-printed mount for STEPPERCONTROLLER|N/A|N/A|1|EA|Sub-Assembly, see below|
