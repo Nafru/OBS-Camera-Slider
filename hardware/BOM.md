@@ -13,11 +13,11 @@ The top level assembly is comprised of off-the-shelf parts, as well as sub-assem
 |Drag/Cable Chain|Drag/Cable Chain|OpenBuilds|NA|1|EA|Makerparts.ca|
 |Xtension 4 Wire Without Connectors|Stepper motor controller wire|OpenBuilds|NA|1|EA|Makerparts.ca|
 |Xtension 3 Wire Without Connectors|Limit switch wire|OpenBuilds|NA|1|EA|Makerparts.ca|
-|Xtension Connectors|3 pin Limit switch connector|OpenBuilds|NA|1|EAMakerparts.ca|
+|Xtension Connectors|3 pin Limit switch connector|OpenBuilds|NA|1|EA|Makerparts.ca|
 |Xtension Connectors|4 pin Stepper motor connector|OpenBuilds|NA|1|EA|makerparts.ca|
 |Aluminum Spacers 13.2mm|10 Pack support for drag chain|OpenBuilds|NA|1|10 pack|Makerparts.ca|
 |20mm Low Profile Screws M5|10 Pack Support for drag chain|OpenBuilds|NA|1|10 Pack|Makerparts.ca|
-|Drop In Tee Nuts|10 Pack support for rag chain|OpenBuilds|NA|1|10 pack| Markerparts.ca|
+|Drop In Tee Nuts|10 Pack support for rag chain|OpenBuilds|NA|1|10 pack|Markerparts.ca|
 |5 volt dc Power|5 Volt power for Arduino|NA||1|EA||
 |12 volt dc power|12 volt power for stepper motor|NA||1|EA||  
 |CAMERA|OBS-Compatible camera|Logitech|C920|1|EA|Best Buy|
