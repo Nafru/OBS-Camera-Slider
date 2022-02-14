@@ -2,17 +2,13 @@
 
 Multiple axis Camera slider controllable via [OBS](https://github.com/obsproject/obs-studio) (Open Broadcaster Software) and local webhost via [Flask](https://flask.palletsprojects.com/) with multiple presets.
 
+You can see the slider in action at https://twitch.tv/marla_latete on the aquarium rotations as well use channel points to move the slider to set locations from chat.
+
 ## Getting Started
 
-You'll need the following hardware (see also the 'hardware' folder):
-1. Stepper-motor driven linear actuator with a mount suitable for your camera
-2. 12 - 24 volt DC power adequate for stepper motors
-3. Stepper motor
-4. Stepper controller that accepts g-code, for example an [Arduino Uno](https://docs.arduino.cc/hardware/uno-rev3) running GRBL with a [gShield](https://github.com/synthetos/grblShield)
-5. A camera compatible with [OBS Studio ](https://obsproject.com/)
-6. ESP8266 - 01 (adapter and programming board) optional for WIFI connectivity
+A full list of hardware required can be found in BOM document in the [Hardware Folder](https://github.com/Nafru/OBS-Camera-Slider/tree/main/hardware):
 
-You'll need the following software:
+You will need the following software:
 1. [Arduino IDE](https://www.arduino.cc/en/software)
 2. [Universal G-Code Sender](https://winder.github.io/ugs_website/)
 3. [Flask](https://flask.palletsprojects.com/)
