@@ -31,7 +31,8 @@ The stepper controller accepts G-Code and handles moving the camera slider.
 |---|---|---|---|---|---|---|
 |ARDUINO1|Arduino board|Arduino|Uno Rev3|1|EA|Digikey|
 |STEPPERCONTROL1|Arduino-compatible stepper motor control board|Synthetos|gShield|1|EA|Digikey.ca|
-|WIFI1|Arduino-compatible Wifi adapter|Adafruit|2471|1|EA|Digikey.ca|
+|WIFI|ESP8266 Wifi module with ESP01 adapter|||1|EA||
+|Esp-01S Programming Module|USB programmer for ESP8266 Module|||1|EA|| 
 
 ## SCMOUNT1 Assembly
 3D printed platform to mount the stepper controller to a stepper motor.
