@@ -1,6 +1,6 @@
 # OBS-Camera-Slider Bill of Materials
 
-This is a full list of material for the build that is running on https:twitch.tv/marla_latete stream. The actuator is a 1 meter C Beam kit with additions. You are able to use any of the kits and scale to size. 
+This is a full list of material and tools required for the build that is running on https://twitch.tv/marla_latete stream. The actuator is a 1 meter C Beam kit with additions. You are able to use any of the kits and scale to size. 
 It is strongly suggested that you use black if you are using this with a reflective surface like a fishtank to stop it being seen on camera.
 
 ## Tools Rquired for the build (to be updated)
