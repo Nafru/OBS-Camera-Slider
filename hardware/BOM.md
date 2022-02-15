@@ -23,6 +23,8 @@ It is strongly suggested that you use black if you are using this with a reflect
 |Masking tape|For making point on the actuator during setup| 
 |Single Row Pin Headers|To solder to the GRBLSheild for pin out extensions|
 |Wire to board Connector Housing|To connect the wire to pin headers|
+|330 ohm resistor|required for limit switches|
+|Shrink Tube|cover on wire connections and resistor|
 
 ## Camerea Slider Assembly
 |Designator|Description|Manufacturer|Part Number|Quantity|Unit of Measure|Supplier|
