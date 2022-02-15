@@ -9,7 +9,7 @@ It is strongly suggested that you use black if you are using this with a reflect
 |---|---|---|
 |OpenBuilds 8mm Spanner Wrench|Wrench needed for gantery adjusting|MakerParts.ca|
 |Balldriver Screw Driver Set|Or like metric allen Keys size #2, #2.5 and #3|Makerparts.ca|
-|Micro Screw drivers|Blade and Phillips drivers|  
+|Micro Screwdrivers|Blade and Phillips drivers|  
 |Wire Cutters|||
 |Wire Strippers|||
 |Soldering Iron|||
@@ -18,11 +18,11 @@ It is strongly suggested that you use black if you are using this with a reflect
 
 |Designator|Description|
 |---|---|
-|Solder| 
-|wire|
-|Masking tape|
-|Single Row Pin Headers|
-|Wire to board Connector Housing|
+|Solder|| 
+|wire|18 guage, in 4 colours IE Black, Red, Yellow and Blue|
+|Masking tape|For making point on the actuator during setup| 
+|Single Row Pin Headers|To solder to the GRBLSheild for pin out extensions|
+|Wire to board Connector Housing|To connect the wire to pin headers|
 
 ## Camerea Slider Assembly
 |Designator|Description|Manufacturer|Part Number|Quantity|Unit of Measure|Supplier|
