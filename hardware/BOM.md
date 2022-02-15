@@ -61,6 +61,9 @@ The assembly is comprised of a 3D Printed SCMount (see below) that holds an Ardu
 |12 volt dc power|12 volt power for stepper motor|NA||1|EA||  
 
 ## Optional Wifi Network 
+
+|Designator|Description|Manufacturer|Part Number|Quantity|Unit of Measure|Supplier|
+|---|---|---|---|---|---|---|
 |WIFI|ESP8266 Wifi module with ESP01 adapter|||1|EA||
 |Esp-01S Programming Module|USB programmer for ESP8266 Module|||1|EA|| 
 
