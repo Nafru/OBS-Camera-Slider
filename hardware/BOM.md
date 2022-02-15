@@ -3,8 +3,10 @@
 This is a full list of material and tools required for the build that is running on https://twitch.tv/marla_latete stream. The actuator is a 1 meter C Beam kit with additions. You are able to use any of the kits and scale to size. 
 It is strongly suggested that you use black if you are using this with a reflective surface like a fishtank to stop it being seen on camera.
 
-## Tools Rquired for the build (to be updated)
+## Tools Rquired for the build **to be updated
+
 |Designator|Description|Supplier|
+|---|---|---|
 |OpenBuilds 8mm Spanner Wrench|Wrench needed for gantery adjusting|MakerParts.ca|
 |Balldriver Screw Driver Set|Or like metric allen Keys size #2, #2.5 and #3|Makerparts.ca|
 |Micro Screw drivers|Blade and Phillips drivers|  
@@ -12,7 +14,8 @@ It is strongly suggested that you use black if you are using this with a reflect
 |Wire Strippers|||
 |Soldering Iron|||
 
-## Consumables and additional parts (to be updated)
+## Consumables and additional parts **to be updated
+|---|---|
 |Designator|
 |Solder| 
 |wire|
