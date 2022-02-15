@@ -19,7 +19,7 @@ It is strongly suggested that you use black if you are using this with a reflect
 |Designator|Description|
 |---|---|
 |Solder|| 
-|wire|18 guage, in 4 colours IE Black, Red, Yellow and Blue|
+|Wire|18 guage, in 4 colours IE Black, Red, Yellow and Blue|
 |Masking tape|For making point on the actuator during setup| 
 |Single Row Pin Headers|To solder to the GRBLSheild for pin out extensions|
 |Wire to board Connector Housing|To connect the wire to pin headers|
