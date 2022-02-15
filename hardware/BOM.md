@@ -15,8 +15,9 @@ It is strongly suggested that you use black if you are using this with a reflect
 |Soldering Iron|||
 
 ## Consumables and additional parts **to be updated
+
+|Designator|Description|
 |---|---|
-|Designator|
 |Solder| 
 |wire|
 |Masking tape|
