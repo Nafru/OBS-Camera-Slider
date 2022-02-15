@@ -28,6 +28,9 @@ If you are planning on adding a second axis, you will require the double wide ga
 |Shrink Tube|cover on wire connections and resistor|
 
 ## Camerea Slider Assembly
+
+This is the X axis assembly build. For a second axis the double wide gantry is required to attach the second axis. 
+ 
 |Designator|Description|Manufacturer|Part Number|Quantity|Unit of Measure|Supplier|
 |---|---|---|---|---|---|---|
 |CAMSLIDER|C-Beam Tension XL Linear Actuator Bundle|OpenBuilds|3045-Bundle|1|EA|Makerparts.ca|
